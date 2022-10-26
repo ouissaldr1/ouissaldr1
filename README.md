@@ -1,4 +1,3 @@
-<img width="400" src="https://storyset.com/illustration/hand-coding/rafiki#139A86FF&hide=&hide=complete"/>
 <h1 align="center">Hi 👋, I'm DERRAZ Ouissal</h1>
 <h3 align="center">An engineering student in computer science, and also a motivated full-stack developer.</h3>
 
@@ -6,14 +5,11 @@
 
 - 💻 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my projects are available at <a href="https://ouissaldr1.github.io/OuissalDerraz/">My portfolio</a>
+- 👨‍💻 Some of my projects are available at <a href="https://ouissaldr1.github.io/OuissalDerraz/">**My portfolio**</a>
 
-- 📫 How to reach me :
- - <p align="left">Email: [ouissal.derraz@gmail.com](ouissal.derraz@gmail.com)
-  </p>
-  <br/>
- - <p align="left">Linkedin: <a href="https://linkedin.com/in/ouissal derraz" target="blank">Profile</a>
-  </p>
+- 📫 How to reach me : **ouissal.derraz@gmail.com**
+ 
+
 
 <br/>
 <br/>
