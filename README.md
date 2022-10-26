@@ -1,4 +1,4 @@
-
+<img width="400" src="https://storyset.com/illustration/hand-coding/rafiki#139A86FF&hide=&hide=complete"/>
 <h1 align="center">Hi 👋, I'm DERRAZ Ouissal</h1>
 <h3 align="center">An engineering student in computer science, and also a motivated full-stack developer.</h3>
 
@@ -8,11 +8,11 @@
 
 - 👨‍💻 Some of my projects are available at <a href="https://ouissaldr1.github.io/OuissalDerraz/">My portfolio</a>
 
-- 📫 How to reach me 
- * <p align="left">Email: [ouissal.derraz@gmail.com](ouissal.derraz@gmail.com)
+- 📫 How to reach me :
+ - <p align="left">Email: [ouissal.derraz@gmail.com](ouissal.derraz@gmail.com)
   </p>
   <br/>
- * <p align="left">Linkedin: <a href="https://linkedin.com/in/ouissal derraz" target="blank">Profile</a>
+ - <p align="left">Linkedin: <a href="https://linkedin.com/in/ouissal derraz" target="blank">Profile</a>
   </p>
 
 <br/>
@@ -23,8 +23,6 @@
 <br/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouissaldr1&show_icons=true&locale=en&layout=compact" alt="ouissaldr1" /></p>
-<br/>
-<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouissaldr1&show_icons=true&locale=en" alt="ouissaldr1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouissaldr1&" alt="ouissaldr1" /></p>
